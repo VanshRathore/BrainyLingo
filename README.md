@@ -26,4 +26,26 @@
 ---
 
 ## 📁 Project Structure
+src/
+├── components/ # Reusable UI components
+├── pages/ # Page components (e.g., Home, Details)
+├── App.jsx # Root React component
+├── main.jsx # Entry point for React app
+└── styles/ # CSS or Tailwind config (if applicable)
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+Follow these instructions to set up the project locally.
+
+### 🔃 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/brainylingo.git
+cd brainylingo
+
+npm install
+npm run dev
 
